@@ -60,7 +60,7 @@ These are the main commands available to Luce Notturna:
 
 ## Instructions
 In the Alexa Developer Console, after creating the skill from scratch, in the Build section, go to Intents - JSON Editor and paste the code found in the "interactionModels/custom/it-IT.json" file.
-In the Code section, update the files with the code present in the "lambda" folder.
+In the Code section, update the files with the code present in the "lambda" folder. Now click on "S3 Storage" and uploads the files in the "audio" folder.
 Now you can test your skill in the Test section (activate it, if deactivated).
 
 ## Contact Information
