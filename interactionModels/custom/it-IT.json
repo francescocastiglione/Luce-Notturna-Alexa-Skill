@@ -1,0 +1,58 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "luce notturna",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": [
+            "aiutarmi",
+            "ho bisogno di aiuto",
+            "a che cosa servi",
+            "a che cosa serve",
+            "a cosa servi",
+            "come funzioni",
+            "a cosa serve",
+            "come funziona",
+            "aiutami",
+            "aiuto"
+          ]
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "LightOnIntent",
+          "slots": [],
+          "samples": [
+            "accendersi",
+            "via",
+            "avviati",
+            "avvia",
+            "illumina",
+            "attiva",
+            "illuminati",
+            "attivati",
+            "accenditi",
+            "accendi",
+            "accendi luce notturna",
+            "accendi la luce notturna",
+            "accendi la luce",
+            "accendi luce"
+          ]
+        }
+      ],
+      "types": []
+    }
+  },
+  "version": "22"
+}
